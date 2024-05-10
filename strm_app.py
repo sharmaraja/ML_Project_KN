@@ -44,7 +44,7 @@ def main():
     if page == 'Home':
         st.header('Welcome to Student Performance Prediction')
         st.write('This app allows you to predict student performance based on various factors.')
-        st.image(r"D:\Learning\education-pattern-background-doodle-style\rm347-porpla-02-a-01.jpg", use_column_width=True)  # Add image
+        st.image("rm347-porpla-02-a-01.jpg", use_column_width=True)  # Add image
         st.write('This app allows you to predict student performance based on various factors.')
         st.markdown("---")  # Add horizontal line
         st.subheader('Description:')
